@@ -12,8 +12,8 @@ st.markdown("""
 <style>
     /* PADDING HALAMAN */
     .block-container {
-        padding-top: 1.5rem;
-        padding-bottom: 2rem;
+        padding-top: 3.5rem;
+        padding-bottom: 1rem;
         padding-left: 2rem;
         padding-right: 2rem;
     }
@@ -46,7 +46,7 @@ st.markdown("""
     div[data-testid="stImage"] > img {
         border-radius: 10px;
         box-shadow: 0 0 15px rgba(0,0,0,0.08); 
-        padding: 5px;
+        padding: 1px;
         background-color: white; 
         width: 100% !important;
     }
